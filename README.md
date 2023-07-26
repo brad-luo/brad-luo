@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-- 🔭 I’m currently studying at Monash university.
+- 🔭 I've graduated from Monash university.
 - 🌱 I'm doing the master of artificial intelligence.
 - 📫 How to reach me: xiaoleluo2@gmail.com.
 - 😄 Pronouns: Mr

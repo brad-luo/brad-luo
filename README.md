@@ -7,9 +7,13 @@
 
 ## Hi there, I'm Brad! 👋
 
-I'm a passionate developer interested in building innovative software solutions and contributing to open source projects.
+I'm a passionate AI Engineer interested in building innovative software solutions powered by
+AI technologies and contributing to open source projects.
 
-### 🔭 What I'm working on
+### ⚡ Fun fact
+I love solving complex problems and turning ideas into reality through code!
+
+<!-- ### 🔭 What I'm working on
 - Building full-stack web applications
 - Contributing to open source projects
 - Learning new technologies and frameworks
@@ -24,15 +28,13 @@ I'm a passionate developer interested in building innovative software solutions 
 - **Frontend:** React, Vue.js, HTML5, CSS3
 - **Backend:** Node.js, Express, Django
 - **Databases:** PostgreSQL, MongoDB, Redis
-- **Cloud:** AWS, Docker, Kubernetes
+- **Cloud:** AWS, Docker, Kubernetes -->
 
 ### 📫 How to reach me
 - Email: xiaoleluo2@gmail.com
+- Website: [bradluo.com](https://bradluo.com)
 - LinkedIn: [xiaole-luo](https://www.linkedin.com/in/xiaole-luo-811906120/)
 - GitHub: [@brad-luo](https://github.com/brad-luo)
-
-### ⚡ Fun fact
-I love solving complex problems and turning ideas into reality through code!
 
 ---
 

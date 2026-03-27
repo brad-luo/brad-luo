@@ -33,8 +33,8 @@ I love solving complex problems and turning ideas into reality through code!
 ### 📫 How to reach me
 - Email: xiaoleluo2@gmail.com
 - Website: [bradluo.com](https://bradluo.com)
-- LinkedIn: [xiaole-luo](https://www.linkedin.com/in/xiaole-luo-811906120/)
-- GitHub: [@brad-luo](https://github.com/brad-luo)
+- LinkedIn: [xiaole-luo](https://www.linkedin.com/in/xiaole-brad-luo)
+- GitHub: [brad-luo](https://github.com/brad-luo)
 
 ---
 

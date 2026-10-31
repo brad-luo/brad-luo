@@ -1,0 +1,15 @@
+# Keeps the pinned GitHub Actions (commit SHAs) up to date.
+# Dependabot updates both the SHA and the "# vX.Y.Z" comment next to it.
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    # One PR for all action updates instead of one PR per action
+    groups:
+      github-actions:
+        patterns:
+          - "*"
+    commit-message:
+      prefix: "ci"
